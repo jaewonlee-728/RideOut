@@ -3,7 +3,7 @@ Nikhil Panu
 Alec Tabatchnick
 Taylor Washington
 
-RideOut README
+## RideOut README
 
 As of the day of the submission on April 30th, our app still has a few kinks to be worked out before the final deadline.
 
