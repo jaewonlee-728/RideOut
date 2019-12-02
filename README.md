@@ -1,7 +1,4 @@
-Jaewon Lee
-Nikhil Panu
-Alec Tabatchnick
-Taylor Washington
+Contributor: Jaewon Lee, Nikhil Panu, Alec Tabatchnick, Taylor Washington 
 
 ## RideOut README
 
@@ -17,3 +14,5 @@ As soon as these issues are resolved, we predict that the remaining development 
 
 Our submission includes a functional user interface, fragments, and use of the Google Maps API complete with location auto-complete.
 
+## Final Submission
+As of final version of our app, most known issues have been solved. It has moved to my personal repository to have records.
